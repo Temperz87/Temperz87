@@ -1,17 +1,12 @@
-## 🎷🐛
+# 🎷🐛
 
+## About me
+- Currently finishing my masters degree
+- Avid PL enthusiast and compiler lover
+- Creator of a couple video game mods
+- Working on getting 112% in Hollow Knight 
 
-<!--
-**Temperz87/Temperz87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on/a contributor to:
+- [ShuLang](https://github.com/Temperz87/ShuLang)
+- [LLVM](https://github.com/llvm/llvm-project)
+- [Deduce](https://github.com/jsiek/deduce)
